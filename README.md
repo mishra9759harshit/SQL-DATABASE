@@ -2,6 +2,7 @@
 # SQLDatabase App
 
 ## ऐप के स्क्रीनशॉट्स (Screenshots)
+<img src="https://github.com/mishra9759harshit/Photos/blob/main/whip-5156_256.gif" alt="Simple GIF" width="100" height="100"/> <img src="https://github.com/mishra9759harshit/Photos/blob/main/arrow-5645_256.gif" alt="Simple GIF" width="100" height="100"/>
 <details>
  <summary><b>✨ **यहाँ क्लिक करें स्क्रीनशॉट देखने के लिए** ✨</b></summary>
   
@@ -29,6 +30,8 @@
 - SQLDatabases (SQLite, MySQL, PostgreSQL)
 ---
 ## डाउनलोड (Download)
+<img src="https://github.com/mishra9759harshit/Photos/blob/main/whip-5156_256.gif" alt="Simple GIF" width="100" height="100"/> <img src="https://github.com/mishra9759harshit/Photos/blob/main/arrow-5645_256.gif" alt="Simple GIF" width="100" height="100"/>
+
 <a href="https://playstoreapp.vercel.app/pages/App-1.html">
     <img src="https://img.shields.io/badge/Download-Download करने के लिए मेरे ऊपर Click करें-black?style=for-the-badge&logo=windows" alt="Download करने के लिए मेरे ऊपर Click करें ">
 </a>
@@ -51,7 +54,8 @@
   ![Screenshot 3](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(3).png?raw=true)
   ![Screenshot 4](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true)
 </details>
----
+ ---
+
 ## डेवलपर सेक्शन (Developer's Section)
 
 ### फोर्क और क्लोन करना (Fork and Clone)
@@ -124,6 +128,6 @@ python sqldatabase.py
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-mishra-mr-robot)  
 [![Visit My Website](https://img.shields.io/badge/Visit%20My-Website-purple?style=for-the-badge&logo=vercel)](https://mishraharshit.vercel.app)  
 [![Join Telegram](https://img.shields.io/badge/Join%20Me%20on-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/+wkVCO1ISxg9jYzc1)  
-
+<img src="https://github.com/mishra9759harshit/Photos/blob/main/i.jpg" alt="Simple GIF" width="100" height="100"/>
 🔥 **Feel free to connect anytime! Let's build something amazing together.** 🚀💡
 ---
