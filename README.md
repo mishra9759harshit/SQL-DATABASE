@@ -118,6 +118,26 @@ python sqldatabase.py
 [![Get Softwares](https://img.shields.io/badge/Get%20Softwares-Now-green?style=for-the-badge&logo=download)](https://playstoreapp.vercel.app)  
 
 ✨ **[🔗 PlayStore पर जाएं](https://playstoreapp.vercel.app) और अपने पसंदीदा सॉफ़्टवेयर डाउनलोड करें!** ✨ 🚀
+# 🌟 AstroLove - प्रेम संगतता मैचर  
+![AstroLove](https://img.shields.io/badge/🌟-AstroLove-orange)  
+![Compatibility](https://img.shields.io/badge/❤️-संगतता-green)  
+![Zodiac](https://img.shields.io/badge/♈-राशि%20चक्र-blue)  
+![Live](https://img.shields.io/badge/🚀-लाइव-red)  
+
+🔗 [![Visit](https://img.shields.io/badge/🔗-Visit%20AstroLove-blue)](https://astrolove.vercel.app)
+
+---
+
+# 💖 Love - किसी खास को प्रेम प्रस्ताव भेजें  
+![Love URL](https://img.shields.io/badge/💖-LoveURL-pink)  
+![Romantic](https://img.shields.io/badge/🎭-रोमांटिक-purple)  
+![Anonymous](https://img.shields.io/badge/🔐-गुप्त-blue)  
+![Music](https://img.shields.io/badge/🎶-संगीत%20विकल्प-yellow)  
+
+🔗 [![Visit](https://img.shields.io/badge/🔗-Visit%20Love%20URL-blue)](https://astrolove.verce.app)  
+📥 [![Download](https://img.shields.io/badge/📥-Download%20Love%20URL-red)](https://playstoreapp.vercel.app/pages/App-5.html)
+
+
 ---
 ### **📞 Contact Me Anytime – I’m Here for You! 💬**  
 
