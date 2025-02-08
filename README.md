@@ -114,4 +114,16 @@ python sqldatabase.py
 [![Get Softwares](https://img.shields.io/badge/Get%20Softwares-Now-green?style=for-the-badge&logo=download)](https://playstoreapp.vercel.app)  
 
 ✨ **[🔗 PlayStore पर जाएं](https://playstoreapp.vercel.app) और अपने पसंदीदा सॉफ़्टवेयर डाउनलोड करें!** ✨ 🚀
+---
+### **📞 Contact Me Anytime – I’m Here for You! 💬**  
 
+💡 **कोई भी सवाल, सुझाव, या सहयोग हो – मुझसे बेझिझक संपर्क करें!** 🚀  
+✨ **अपने विचार साझा करें और नए इनोवेशन पर चर्चा करें!** ✨  
+
+[![Email Me](https://img.shields.io/badge/Email-mishra9759harshit@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mishra9759harshit@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-mishra-mr-robot)  
+[![Visit My Website](https://img.shields.io/badge/Visit%20My-Website-purple?style=for-the-badge&logo=vercel)](https://mishraharshit.vercel.app)  
+[![Join Telegram](https://img.shields.io/badge/Join%20Me%20on-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/+wkVCO1ISxg9jYzc1)  
+
+🔥 **Feel free to connect anytime! Let's build something amazing together.** 🚀💡
+---
