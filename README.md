@@ -2,29 +2,18 @@
 # SQLDatabase App
 
 ## ऐप के स्क्रीनशॉट्स (Screenshots)
-
+![Click to Expand](https://img.shields.io/badge/Click%20to%20Expand-Click%20Below-blue?style=for-the-badge&logo=appveyor)
 <details>
-  <summary style="font-size: 20px; font-weight: bold; color: #39FF14; animation: blink 1s infinite;">
-    <span style="text-shadow: 0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 15px #39FF14;">
-      क्लिक करें स्क्रीनशॉट देखने के लिए
-    </span>
+  <summary>
+    **✨ यहाँ क्लिक करें स्क्रीनशॉट देखने के लिए ✨**  
   </summary>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px; padding: 10px;">
-    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(1).png?raw=true" alt="Screenshot 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(2).png?raw=true" alt="Screenshot 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(3).png?raw=true" alt="Screenshot 3" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true" alt="Screenshot 4" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  </div>
-  
-  <style>
-    @keyframes blink {
-      0% { opacity: 1; }
-      50% { opacity: 0.2; }
-      100% { opacity: 1; }
-    }
-  </style>
+  ![Screenshot 1](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(1).png?raw=true)
+  ![Screenshot 2](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(2).png?raw=true)
+  ![Screenshot 3](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(3).png?raw=true)
+  ![Screenshot 4](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true)
 </details>
+
 
 
 ## विवरण (Description)
