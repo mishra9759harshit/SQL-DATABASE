@@ -2,7 +2,6 @@
 # SQLDatabase App
 
 ## ऐप के स्क्रीनशॉट्स (Screenshots)
-![Click to Expand](https://img.shields.io/badge/Click%20to%20Expand-Click%20Below-blue?style=for-the-badge&logo=appveyor)
 <details>
   <summary>
     **✨ यहाँ क्लिक करें स्क्रीनशॉट देखने के लिए ✨**  
