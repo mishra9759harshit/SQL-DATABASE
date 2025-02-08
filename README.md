@@ -2,14 +2,30 @@
 # SQLDatabase App
 
 ## ऐप के स्क्रीनशॉट्स (Screenshots)
+
 <details>
-  <summary>क्लिक करें स्क्रीनशॉट देखने के लिए</summary>
-  <div style="display: flex; overflow-x: auto;">
-    <img src="screenshot1.jpg" alt="Screenshot 1" style="width: 100%; max-width: 600px; margin-right: 10px;">
-    <img src="screenshot2.jpg" alt="Screenshot 2" style="width: 100%; max-width: 600px; margin-right: 10px;">
-    <img src="screenshot3.jpg" alt="Screenshot 3" style="width: 100%; max-width: 600px;">
+  <summary style="font-size: 20px; font-weight: bold; color: #39FF14; animation: blink 1s infinite;">
+    <span style="text-shadow: 0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 15px #39FF14;">
+      क्लिक करें स्क्रीनशॉट देखने के लिए
+    </span>
+  </summary>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px; padding: 10px;">
+    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(1).png?raw=true" alt="Screenshot 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(2).png?raw=true" alt="Screenshot 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(3).png?raw=true" alt="Screenshot 3" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true" alt="Screenshot 4" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   </div>
+  
+  <style>
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0.2; }
+      100% { opacity: 1; }
+    }
+  </style>
 </details>
+
 
 ## विवरण (Description)
 यह ऐप SQL डेटाबेस क्वेरीज़ का अभ्यास करने के लिए एक ग्राफ़िकल यूज़र इंटरफ़ेस (GUI) में बनाई गई है। इसका उद्देश्य SQL को सरल और आसान तरीके से समझना है। इसका इंटरफ़ेस उपयोग में आसान है और इसे नए उपयोगकर्ताओं के लिए डिज़ाइन किया गया है, ताकि वे आसानी से SQL क्वेरीज़ का अभ्यास कर सकें।
@@ -30,7 +46,7 @@
 ## डेवलपर सेक्शन (Developer's Section)
 
 ### फोर्क और क्लोन करना (Fork and Clone)
-1. **GitHub पर जाएं**: [SQLDatabase GitHub Repo](https://github.com/yourusername/sqldatabase)
+1. **GitHub पर जाएं**: [SQLDatabase GitHub Repo](https://github.com/mishra9759harshit/SQL-DATABASE)
 2. **फोर्क करें**: "Fork" बटन पर क्लिक करें।
 3. **क्लोन करें**: 
    - GitHub रिपॉज़िटरी को अपनी मशीन पर क्लोन करने के लिए नीचे दिए गए कोड का उपयोग करें:
@@ -60,30 +76,22 @@ python sqldatabase.py
 ```
 
 ### अन्य समस्याओं के लिए (For any other queries)
-यदि आपको कोई समस्या आती है, तो कृपया [यहां इश्यू उठाएं](https://github.com/yourusername/sqldatabase/issues)。
+यदि आपको कोई समस्या आती है, तो कृपया [यहां इश्यू उठाएं](https://github.com/mishra9759harshit/SQL-DATABASE/issues)。
 
 ## लाइव प्रोजेक्ट्स देखें (View My Live Projects)
-[लाइव प्रोजेक्ट्स देखें](https://example.com/live-projects)
+[लाइव प्रोजेक्ट्स देखें](https://mishraharshit.vercel.app/live.html)
 
 ## ओपन सोर्स प्रोजेक्ट्स में योगदान करें (To Contribute in My Open Source Projects)
-[ओपन सोर्स प्रोजेक्ट्स में योगदान करें](https://example.com/contribute)
+[ओपन सोर्स प्रोजेक्ट्स में योगदान करें](https://mishraharshit.vercel.app/github.html)
 
 ## सोशल मीडिया (Social Media)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Website](https://yourwebsite.com)
-- [YouTube](https://www.youtube.com/channel/yourchannel)
+  **" To Recive Feuture update's Connect with "**
+- [LinkedIn](https://www.linkedin.com/in/harshit-mishra-mr-robot)
+- [GitHub](https://github.com/mishra9759harshit)
+- [Website](https://mishraharshit.vercel.app)
+- [YouTube](https://www.youtube.com/channel/UCtETkLhy-BJT4p3WWOwSLWA)
 
-## फ़ूटर (Footer)
 यह ऐप Python, Kivy और KivyMD का उपयोग करके बनाई गई है। इसे SQL डेटाबेस क्वेरीज़ का अभ्यास करने के लिए डिज़ाइन किया गया है। 
 
 
-### Explanation of Updates:
-1. **Slideshow for Screenshots**: I added a `details` block with a `summary` tag, which will allow users to expand and see the images. The images will be displayed side by side, and you can add as many images as needed. Replace the image source (`src="screenshot1.jpg"`) with your actual image paths or URLs.
-2. **Sections for the App Description** and other details remain the same but in Hindi as you requested.
-
-### Next Steps:
-1. **Replace the screenshot paths** with the actual paths to your screenshots.
-2. **Update the links** (like GitHub, download, social media, etc.) with your real URLs.
-3. Publish the file on GitHub or any other platform that supports Markdown.
 
