@@ -14,7 +14,7 @@
   ![Screenshot 4](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true)
 </details>
 
-
+---
 
 ## विवरण (Description)
 यह ऐप SQL डेटाबेस क्वेरीज़ का अभ्यास करने के लिए एक ग्राफ़िकल यूज़र इंटरफ़ेस (GUI) में बनाई गई है। इसका उद्देश्य SQL को सरल और आसान तरीके से समझना है। इसका इंटरफ़ेस उपयोग में आसान है और इसे नए उपयोगकर्ताओं के लिए डिज़ाइन किया गया है, ताकि वे आसानी से SQL क्वेरीज़ का अभ्यास कर सकें।
@@ -27,7 +27,7 @@
 - Kivy
 - KivyMD
 - SQLDatabases (SQLite, MySQL, PostgreSQL)
-
+---
 ## डाउनलोड (Download)
 <a href="https://playstoreapp.vercel.app/pages/App-1.html">
     <img src="https://img.shields.io/badge/Download-Download करने के लिए मेरे ऊपर Click करें-black?style=for-the-badge&logo=windows" alt="Download करने के लिए मेरे ऊपर Click करें ">
@@ -38,7 +38,7 @@
 [![Get the App](https://img.shields.io/badge/Get%20the%20App-Download-red?style=for-the-badge)](https://playstoreapp.vercel.app/pages/App-1.html)
 [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://playstoreapp.vercel.app/pages/App-1.html)
 [Click](https://playstoreapp.vercel.app/pages/App-1.html)
-
+---
 ## ऐप के स्क्रीनशॉट्स (Screenshots)
 ![नीचे Click करें ](https://img.shields.io/badge/नीचे%20click%20करें-Click%20Below-blue?style=for-the-badge&logo=appveyor)
 <details>
@@ -51,7 +51,7 @@
   ![Screenshot 3](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(3).png?raw=true)
   ![Screenshot 4](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true)
 </details>
-
+---
 ## डेवलपर सेक्शन (Developer's Section)
 
 ### फोर्क और क्लोन करना (Fork and Clone)
@@ -83,25 +83,25 @@ Python फाइल को चलाने के लिए निम्नल�
 ```bash
 python sqldatabase.py
 ```
-
+---
 ### अन्य समस्याओं के लिए (For any other queries)
 यदि आपको कोई समस्या आती है, तो कृपया [यहां इश्यू उठाएं](https://github.com/mishra9759harshit/SQL-DATABASE/issues)。
-
+---
 ## लाइव प्रोजेक्ट्स देखें (View My Live Projects)
 [लाइव प्रोजेक्ट्स देखें](https://mishraharshit.vercel.app/live.html)
-
+---
 ## ओपन सोर्स प्रोजेक्ट्स में योगदान करें (To Contribute in My Open Source Projects)
 [ओपन सोर्स प्रोजेक्ट्स में योगदान करें](https://mishraharshit.vercel.app/github.html)
-
+---
 ## सोशल मीडिया (Social Media)
   **" To Recive Feuture update's Connect with "**
 - [LinkedIn](https://www.linkedin.com/in/harshit-mishra-mr-robot)
 - [GitHub](https://github.com/mishra9759harshit)
 - [Website](https://mishraharshit.vercel.app)
 - [YouTube](https://www.youtube.com/channel/UCtETkLhy-BJT4p3WWOwSLWA)
-
+---
 यह ऐप Python, Kivy और KivyMD का उपयोग करके बनाई गई है। इसे SQL डेटाबेस क्वेरीज़ का अभ्यास करने के लिए डिज़ाइन किया गया है। 
-
+---
 ### **🛍️ [PlayStore Software Collection](https://playstoreapp.vercel.app) – मुफ्त डाउनलोड करें! 🚀**  
 
 📢 **अब आपके पसंदीदा सॉफ़्टवेयर डाउनलोड करें!** 💻✨  
