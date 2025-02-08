@@ -39,6 +39,19 @@
 [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://playstoreapp.vercel.app/pages/App-1.html)
 [Click](https://playstoreapp.vercel.app/pages/App-1.html)
 
+## ऐप के स्क्रीनशॉट्स (Screenshots)
+![नीचे Click करें ](https://img.shields.io/badge/नीचे%20click%20करें-Click%20Below-blue?style=for-the-badge&logo=appveyor)
+<details>
+  <summary>
+    **✨ यहाँ क्लिक करें स्क्रीनशॉट देखने के लिए ✨**  
+  </summary>
+  
+  ![Screenshot 1](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(1).png?raw=true)
+  ![Screenshot 2](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(2).png?raw=true)
+  ![Screenshot 3](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(3).png?raw=true)
+  ![Screenshot 4](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true)
+</details>
+
 ## डेवलपर सेक्शन (Developer's Section)
 
 ### फोर्क और क्लोन करना (Fork and Clone)
@@ -89,5 +102,16 @@ python sqldatabase.py
 
 यह ऐप Python, Kivy और KivyMD का उपयोग करके बनाई गई है। इसे SQL डेटाबेस क्वेरीज़ का अभ्यास करने के लिए डिज़ाइन किया गया है। 
 
+### **🛍️ [PlayStore Software Collection](https://playstoreapp.vercel.app) – मुफ्त डाउनलोड करें! 🚀**  
 
+📢 **अब आपके पसंदीदा सॉफ़्टवेयर डाउनलोड करें!** 💻✨  
+🔹 तेज़ और सुरक्षित डाउनलोड ✅  
+🔹 बेहतरीन टूल्स और यूटिलिटीज़ 🔧  
+🔹 पूरी तरह से मुफ्त! 🆓  
+
+🔽 **डाउनलोड करने के लिए क्लिक करें** 🔽  
+[![Download Now](https://img.shields.io/badge/Visit%20Now-PlayStore-blue?style=for-the-badge&logo=windows)](https://playstoreapp.vercel.app)  
+[![Get Softwares](https://img.shields.io/badge/Get%20Softwares-Now-green?style=for-the-badge&logo=download)](https://playstoreapp.vercel.app)  
+
+✨ **[🔗 PlayStore पर जाएं](https://playstoreapp.vercel.app) और अपने पसंदीदा सॉफ़्टवेयर डाउनलोड करें!** ✨ 🚀
 
