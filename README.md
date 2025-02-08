@@ -3,9 +3,7 @@
 
 ## ऐप के स्क्रीनशॉट्स (Screenshots)
 <details>
-  <summary>
-    **✨ यहाँ क्लिक करें स्क्रीनशॉट देखने के लिए ✨**  
-  </summary>
+ <summary><b>✨ **यहाँ क्लिक करें स्क्रीनशॉट देखने के लिए** ✨</b></summary>
   
   ![Screenshot 1](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(1).png?raw=true)
   ![Screenshot 2](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(2).png?raw=true)
@@ -13,7 +11,10 @@
   ![Screenshot 4](https://github.com/mishra9759harshit/SQL-DATABASE/blob/main/Screenshot's/1%20(4).png?raw=true)
 </details>
 
+
+
 ---
+
 
 ## विवरण (Description)
 यह ऐप SQL डेटाबेस क्वेरीज़ का अभ्यास करने के लिए एक ग्राफ़िकल यूज़र इंटरफ़ेस (GUI) में बनाई गई है। इसका उद्देश्य SQL को सरल और आसान तरीके से समझना है। इसका इंटरफ़ेस उपयोग में आसान है और इसे नए उपयोगकर्ताओं के लिए डिज़ाइन किया गया है, ताकि वे आसानी से SQL क्वेरीज़ का अभ्यास कर सकें।
