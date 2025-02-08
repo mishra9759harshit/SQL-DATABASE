@@ -1,0 +1,11 @@
+sqlite3
+cx_Oracle
+mysql-connector-python
+sqlparse
+psycopg2
+pandas
+requests
+kivymd
+kivy
+pygments
+prettytable
