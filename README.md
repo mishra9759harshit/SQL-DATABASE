@@ -151,3 +151,5 @@ python sqldatabase.py
 <img src="https://github.com/mishra9759harshit/Photos/blob/main/i.jpg" alt="Simple GIF" width="100" height="100"/>
 🔥 **Feel free to connect anytime! Let's build something amazing together.** 🚀💡
 ---
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mishra9759harshit/SQL-DATABASE&title=Views)
+
